@@ -13,6 +13,7 @@ using System.Web.Routing;
 
 namespace Paladin
 {
+    //test commit
     public class MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
